@@ -1,0 +1,6 @@
+
+java 1.8
+mysql 8.0
+apache tomcatt
+Nginx xyz
+
